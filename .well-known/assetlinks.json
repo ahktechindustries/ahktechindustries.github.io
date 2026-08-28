@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.hktechindustries.flagsquiz",
+      "sha256_cert_fingerprints": [
+        "93:64:E9:47:FF:B6:4B:D5:95:8E:7F:6A:7E:7E:2E:0F:99:6C:0C:DD:B2:2B:DA:AD:88:8E:71:35:A4:DD:0F:92",
+        "PON_AQUI_LA_HUELLA_DE_LA_CLAVE_DE_FIRMA_DE_PLAY"
+      ]
+    }
+  }
+]
